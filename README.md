@@ -1,8 +1,11 @@
 # otp_verification
 
-A new Flutter project.
-
 ## Getting Started
+
+<img src="https://github.com/govindgurjar/otp_verification_ui/assets/83970520/9837eeda-b7ad-49b6-9e72-b8d96dfea464" alt="drawing" width="330"/>
+
+<img src="https://github.com/govindgurjar/otp_verification_ui/assets/83970520/b4f9c22d-5102-42dc-a66a-7a4819dafa3d" alt="drawing" width="330"/>
+
 
 This project is a starting point for a Flutter application.
 
